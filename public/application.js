@@ -18,6 +18,10 @@ function init() {
     makeObjectMovable(letterJ);
     makeObjectMovable(letterK);
     makeObjectMovable(letterL);
+    makeObjectMovable(letterM);
+    makeObjectMovable(letterN);
+    makeObjectMovable(letterO);
+    makeObjectMovable(letterP);
 }
 
 function startmove(event) {
