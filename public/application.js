@@ -10,6 +10,11 @@ function init() {
     makeObjectMovable(letterB);
     makeObjectMovable(letterC);
     makeObjectMovable(letterD);
+    makeObjectMovable(letterE);
+    makeObjectMovable(letterF);
+    makeObjectMovable(letterG);
+    makeObjectMovable(letterH);
+    makeObjectMovable(letterI);
 }
 
 function startmove(event) {
