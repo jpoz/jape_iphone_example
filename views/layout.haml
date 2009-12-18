@@ -1,10 +1,13 @@
 !!!
 %html{ :xmlns => "http://www.w3.org/1999/xhtml", :"xml:lang" =>"en", :lang =>"en" }
   %head
+    %meta{:content=>"yes", :name=>"apple-mobile-web-app-capable"}
     %title
-      JPoz
-    %meta{ :name=>"viewport", :content=>"width = device-width, user-scalable = no, height = device-height"}
+      ABC
+    %link{ :rel=>"apple-touch-icon", :href=> "icon.png"}
     %script{:type=>"text/javascript",:src => 'jape.js'}
     %script{:type=>"text/javascript",:src => 'application.js'}
+    %meta{:name=>"apple-mobile-web-app-status-bar-style", :content=>"black"}
+    %meta{:name=>"viewport", :content=>"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;"}
   %body{:onload=>"init();"}
     = yield
