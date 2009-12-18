@@ -1,12 +1,14 @@
 require 'rubygems'
 require 'sinatra'
 
+# look in the public directory!
+
 get '/' do
-  haml :index
+  redirect '/index.html', 307
 end
 
 not_found do
-  haml :'404'
+  '404'
 end
 
 error do
