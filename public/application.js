@@ -15,6 +15,9 @@ function init() {
     makeObjectMovable(letterG);
     makeObjectMovable(letterH);
     makeObjectMovable(letterI);
+    makeObjectMovable(letterJ);
+    makeObjectMovable(letterK);
+    makeObjectMovable(letterL);
 }
 
 function startmove(event) {
