@@ -2,8 +2,8 @@ h1. Jape iPhone example
 
 Persistent key-value storage example app using "Jape":http://github.com/whoahbot/jape .
 
-You can try the app out yourself here (reload the letters will keep their places!): "http://abc.jpoz.net/":http://abc.jpoz.net/ <span style='color: red'> (iPhone or iPhone simulator needed)
+You can try the app out yourself here (reload the letters will keep their places!): "http://abc.jpoz.net/":http://abc.jpoz.net/ <span style='color: red;'>(iPhone or iPhone simulator needed)</span>
 
 h2. Screen shot
 
-<img src='http://www.pozdena.org/snaps/1edd983238527e34b011707daf77fd4c.png' />
+<img src='http://www.pozdena.org/snaps/e885e1a375b3529104baba4afb7a4fa2.png' />
