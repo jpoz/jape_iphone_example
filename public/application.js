@@ -22,6 +22,16 @@ function init() {
     makeObjectMovable(letterN);
     makeObjectMovable(letterO);
     makeObjectMovable(letterP);
+    makeObjectMovable(letterQ);
+    makeObjectMovable(letterR);
+    makeObjectMovable(letterS);
+    makeObjectMovable(letterT);
+    makeObjectMovable(letterU);
+    makeObjectMovable(letterV);
+    makeObjectMovable(letterW);
+    makeObjectMovable(letterX);
+    makeObjectMovable(letterY);
+    makeObjectMovable(letterZ);
 }
 
 function startmove(event) {
